@@ -1,0 +1,9 @@
+Copyright (c) 2026 FrameHarbor contributors
+
+The application source files in this repository may be used and modified
+freely for personal or commercial purposes.
+
+Third-party tools and dependencies retain their own licenses. In particular,
+the Windows package includes FFmpeg, yt-dlp, Node.js, Python, Pillow, and
+PyInstaller runtime components. Their license notices are distributed with
+the application. This permission does not replace those dependency licenses.
